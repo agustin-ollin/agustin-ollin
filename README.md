@@ -1,8 +1,8 @@
-Agustín Ollín 👋
+**Agustín Ollín 👋**
 
-Computer Engineering Student
+Computer Engineering Student👾.
 
-Technologies:
+**💻 Languages 💻 :**
 - Java
 - Kotlin
 - JavaScript
