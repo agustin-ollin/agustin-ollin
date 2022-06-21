@@ -2,7 +2,7 @@
 
 Computer Engineering Student👾.
 
-**💻 Languages 💻 :**
+**💻 Programming languages 💻 :**
 - Java
 - Kotlin
 - JavaScript
