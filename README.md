@@ -15,7 +15,11 @@
 
 ###
 
-<div align="center">
+<img align="right" height="150" src="https://media.tenor.com/U2IQPoBhRTkAAAAi/kafama-s%C4%B1k%C4%B1cam-tnd.gif"  />
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -33,11 +37,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/U2IQPoBhRTkAAAAi/kafama-s%C4%B1k%C4%B1cam-tnd.gif"  />
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/agus_ollin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
