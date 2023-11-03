@@ -1,21 +1,23 @@
+<br clear="both">
+
+<img align="left" height="150" src="https://media.tenor.com/U2IQPoBhRTkAAAAi/kafama-s%C4%B1k%C4%B1cam-tnd.gif"  />
+
+###
+
 <h2 align="left">Hi ✨! My name is Agustín Ollín</h2>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/agustin-ollin/count.svg?"  />
-</div>
+<img align="left" src="https://profile-counter.glitch.me/agustin-ollin/count.svg?"  />
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agustin-ollin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=agustin-ollin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=es&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agustin-ollin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="left" height="150" src="https://media.tenor.com/U2IQPoBhRTkAAAAi/kafama-s%C4%B1k%C4%B1cam-tnd.gif"  />
 
 ###
 
