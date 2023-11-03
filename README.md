@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="150" src="https://media.tenor.com/U2IQPoBhRTkAAAAi/kafama-s%C4%B1k%C4%B1cam-tnd.gif"  />
+<img align="left" height="150" src="https://media.tenor.com/U2IQPoBhRTkAAAAi/kafama-s%C4%B1k%C4%B1cam-tnd.gif" style="margin: 10px" />
 
 ###
 
